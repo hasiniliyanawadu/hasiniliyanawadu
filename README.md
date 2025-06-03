@@ -64,7 +64,7 @@
   </a>
 </div>
 <p align="center">
-  <a href="https://github.com/Has362">
+  <a href="https://github.com/hasiniliyanawadu">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Has362&&theme=tokyonight" alt="Has362" />
   </a>
 </p>
@@ -111,5 +111,5 @@
 </table>
 
 ------
-[Has362](https://github.com/Has362)
+[hasiniliyanawadu](https://github.com/hasiniliyanawadu)
 01/02/2025
