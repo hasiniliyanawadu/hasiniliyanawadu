@@ -56,11 +56,12 @@
 <h2 align="center"><b>🗣️ Github Stats</b></h2>
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sk16er&theme=dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sk16er&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sk16er&theme=dark&border_color=303030&border_radius=4" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasiniliyanawadu&theme=dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hasiniliyanawadu&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasiniliyanawadu&theme=dark&border_color=303030&border_radius=4" />
 </div>
 </div>
+
 <p align="center">
   <a href="https://github.com/hasiniliyanawadu">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasiniliyanawadu&&theme=tokyonight" alt="Has" />
