@@ -62,6 +62,8 @@
 </div>
 </div>
 
+<h2 align="center"><b>🗣️ Github Streak</b></h2>
+
 <p align="center">
   <a href="https://github.com/hasiniliyanawadu">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasiniliyanawadu&&theme=tokyonight" alt="Has" />
