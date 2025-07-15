@@ -60,12 +60,12 @@
 <div align="center">
   <a href="https://github.com/hasiniliyanawadu">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasiniliyanawadu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Hasini"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasiniliyanawadu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Hasini"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasiniliyanawadu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Hasin"/>
   </a>
 </div>
 <p align="center">
   <a href="https://github.com/hasiniliyanawadu">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasiniliyanawadu&&theme=tokyonight" alt="Hasini" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasiniliyanawadu&&theme=tokyonight" alt="Has" />
   </a>
 </p>
 
